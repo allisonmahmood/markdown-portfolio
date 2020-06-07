@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile Photo](https://amsofin.com/wp-content/uploads/2020/06/2-2.jpeg)
